@@ -3,7 +3,7 @@
 # For the Grader
 * I forgot to clone the repo and did it locally.  
 * In the image folder, you can find a screenshot of the local repository with date and time of edit and creation.
-* Comming back to this one later to apply some styles.
+* Coming back to this one later to apply some styles.
 
 ## When:
 
